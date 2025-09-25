@@ -1,4 +1,4 @@
-package com.example.schema_validator;
+package com.example.validator;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
